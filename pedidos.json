@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburguesas Sabrosas",
+    "username": "BurgerKing",
+    "email": "info@hamburguesassabrosas.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla",
+      "queso": "Queso cheddar",
+      "salsas": "Salsas especiales",
+      "pickle": "Pepinillos",
+      "bacon": "Tocino"
+    },
+    "phone": "1-770-736-8031",
+    "website": "hamburguesassabrosas.com",
+    "company": {
+      "name": "Hamburguesas Sabrosas S.A.",
+      "catchPhrase": "El hogar de la hamburguesa jugosa",
+      "bs": "Deliciosas y asequibles hamburguesas"
+    }
+  },
+  {
+    "id": 2,
+    "name": "La Parrilla de las Hamburguesas",
+    "username": "McDonalds",
+    "email": "info@laparrilladelashamburguesas.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla",
+      "queso": "Queso americano",
+      "salsas": "Salsa especial de la casa",
+      "pickle": "Pepinillos"
+    },
+    "phone": "010-692-6593",
+    "website": "laparrilladelashamburguesas.com",
+    "company": {
+      "name": "La Parrilla de las Hamburguesas S.A.",
+      "catchPhrase": "Hamburguesas deliciosas para cada ocasión",
+      "bs": "Hechas al momento con ingredientes de calidad"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hamburguesas Rápidas",
+    "username": "Wendys",
+    "email": "info@hamburguesasrapidas.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla",
+      "queso": "Queso suizo",
+      "salsas": "Salsas especiales",
+      "pickle": "Pepinillos",
+      "bacon": "Tocino"
+    },
+    "phone": "1-463-123-4447",
+    "website": "hamburguesasrapidas.com",
+    "company": {
+      "name": "Hamburguesas Rápidas S.A.",
+      "catchPhrase": "Sabor en cada bocado",
+      "bs": "Agilidad y calidad en hamburguesas"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Hamburguesas Deluxe",
+    "username": "Carl's Jr.",
+    "email": "info@hamburguesasdeluxe.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla caramelizada",
+      "queso": "Queso Monterey Jack",
+      "salsas": "Salsas gourmet",
+      "pickle": "Pepinillos",
+      "huevo": "Huevo frito",
+      "jalapenos": "Jalapeños"
+    },
+    "phone": "493-170-9623",
+    "website": "hamburguesasdeluxe.com",
+    "company": {
+      "name": "Hamburguesas Deluxe S.A.",
+      "catchPhrase": "Calidad y sabor sin igual",
+      "bs": "Transición de servicios web de vanguardia"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Hamburguesas Picantes",
+    "username": "FiveGuys",
+    "email": "info@hamburguesaspicantes.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla",
+      "queso": "Queso americano",
+      "salsas": "Salsas especiales",
+      "pickle": "Pepinillos",
+      "jalapenos": "Jalapeños",
+      "champinones": "Champiñones"
+    },
+    "phone": "(254)954-1289",
+    "website": "hamburguesaspicantes.com",
+    "company": {
+      "name": "Hamburguesas Picantes S.A.",
+      "catchPhrase": "Una explosión de sabor",
+      "bs": "Autenticidad en hamburguesas caseras"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hamburguesas al Grill",
+    "username": "In-N-Out",
+    "email": "info@hamburguesasalgrill.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla fresca",
+      "queso": "Queso americano",
+      "salsas": "Salsa especial",
+      "pickle": "Pepinillos"
+    },
+    "phone": "1-477-935-8478",
+    "website": "hamburguesasalgrill.com",
+    "company": {
+      "name": "Hamburguesas al Grill S.A.",
+      "catchPhrase": "Sabor a la parrilla en cada hamburguesa",
+      "bs": "Innovación en aplicaciones culinarias"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Hamburguesas Caseras",
+    "username": "Smashburger",
+    "email": "info@hamburguesascaseras.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla caramelizada",
+      "queso": "Queso suizo",
+      "salsas": "Salsas gourmet",
+      "pickle": "Pepinillos",
+      "champinones": "Champiñones",
+      "huevo": "Huevo frito"
+    },
+    "phone": "210.067.6132",
+    "website": "hamburguesascaseras.com",
+    "company": {
+      "name": "Hamburguesas Caseras S.A.",
+      "catchPhrase": "La tradición en cada hamburguesa",
+      "bs": "Creando experiencias culinarias únicas"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hamburguesas Exquisitas",
+    "username": "ShakeShack",
+    "email": "info@hamburguesasexquisitas.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla",
+      "queso": "Queso cheddar",
+      "salsas": "Salsa especial",
+      "pickle": "Pepinillos",
+      "jalapenos": "Jalapeños",
+      "hongos": "Hongos portobello"
+    },
+    "phone": "586.493.6943",
+    "website": "hamburguesasexquisitas.com",
+    "company": {
+      "name": "Hamburguesas Exquisitas S.A.",
+      "catchPhrase": "El placer de lo auténtico",
+      "bs": "Cuidando cada detalle en nuestras hamburguesas"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Hamburguesas Gourmet",
+    "username": "Fuddruckers",
+    "email": "info@hamburguesasgourmet.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla caramelizada",
+      "queso": "Queso suizo",
+      "salsas": "Salsas gourmet",
+      "pickle": "Pepinillos",
+      "bacon": "Tocino",
+      "huevo": "Huevo a la plancha",
+      "aguacate": "Aguacate"
+    },
+    "phone": "(775)976-6794",
+    "website": "hamburguesasgourmet.com",
+    "company": {
+      "name": "Hamburguesas Gourmet S.A.",
+      "catchPhrase": "El arte de las hamburguesas",
+      "bs": "Experiencias gastronómicas inolvidables"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hamburguesas Tradicionales",
+    "username": "JackInTheBox",
+    "email": "info@hamburguesastradicionales.com",
+    "ingredientes": {
+      "pan": "Pan de hamburguesa",
+      "carne": "Carne de res",
+      "lechuga": "Lechuga",
+      "tomate": "Tomate",
+      "cebolla": "Cebolla",
+      "queso": "Queso americano",
+      "salsas": "Salsas especiales",
+      "pickle": "Pepinillos",
+      "huevo": "Huevo a la plancha",
+      "jalapenos": "Jalapeños"
+    },
+    "phone": "024-648-3804",
+    "website": "hamburguesastradicionales.com",
+    "company": {
+      "name": "Hamburguesas Tradicionales S.A.",
+      "catchPhrase": "La tradición en cada bocado",
+      "bs": "Calidad y sabor en nuestras hamburguesas"
+    }
+  }
+]

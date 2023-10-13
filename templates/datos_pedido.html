@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ encabezado_pagina }}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='StyleSheet.css') }}">
+</head>
+<body>
+    
+{% if pedido_encontrado %}
+    <h1>{{ titulo_pagina }}</h1>
+
+    <ul><!- Agrega el id para identificar el pedido ->
+        <span class="highlight-container"><span class="highlight">
+        <li>id del pedido: {{ pedido_encontrado['id'] }}</li>
+        <li>email: {{ pedido_encontrado['email'] }}</li>
+        <li>Ingredientes: {{ pedido_encontrado['ingredientes']}}, {{ pedido_encontrado['ingredientes']}}</li>
+        <li>Teléfono para pedidos: {{ pedido_encontrado['phone'] }}</li>
+        <li>Página web: {{ pedido_encontrado['website'] }}</li>
+        <li>Frase: {{ pedido_encontrado['company']['catchPhrase'] }}</li>
+    </span></span>
+    </ul>
+{% else %}
+    
+    ¡No existe pedido!
+{% endif %}
+
+</body>
+</html>

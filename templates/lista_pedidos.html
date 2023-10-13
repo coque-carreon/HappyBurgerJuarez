@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ encabezado_pagina }}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='StyleSheet.css') }}">
+</head>
+<body>
+
+<h1>{{ titulo_pagina }}</h1>
+
+<form action="/datos/pedido/{{ id_pedido }}" method="GET">
+  <label for="id_pedido">Ingresa el ID del pedido:</label>
+  <input type="text" id="id_pedido" name="id_pedido">
+  <input type="submit" value="Mostrar">
+</form>
+
+<ul>
+    <span class="highlight-container"><span class="highlight">
+    {% for pedido in pedidos %}
+        <li> {{ pedido['name'] }} <a href="/datos/pedido/{{ pedido['id'] }}">{{ pedido['id'] }}</a></li>
+    {% endfor %}
+    </span></span>
+</ul>
+</body>
+</html>
